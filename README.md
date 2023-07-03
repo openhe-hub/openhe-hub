@@ -1,64 +1,13 @@
-<a href="https://github.com/Charmve/computer-vision-in-action">
-    <img align="right" src="https://komarev.com/ghpvc/?username=Charmve&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors" />
-</a>
-
-## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">ZHANG WEI (Charmve)</a> <sup><a href="https://github.com/Charmve/Charmve/blob/master/OctoCharmve/pronounce.m4a?raw=true" title="pronunciation">🔊</a></sup>
-
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="84" title="Say HI"> <details><summary>(Click to expand) <em><b>I love connecting with different people</b> so if you want to <a href="https://github.com/Charmve/Charmve/issues/new" >say <b>"hi" </b></a>, <b>I'll be happy to meet you more!</b> : )</em></summary>
-
-<!--my introduction start-->
-
-<!-- The one on the left is [Charmve](https://github.com/Charmve)（益达）, he will speak for me in the virtual world. -->
-> You can find how to contact me in the following paltform icon url. You can follow me to find something more interesting.
-
-- 🔭 I’m currently writing some amateur [open source projects](https://github.com/Charmve?tab=repositories), at [@Maiwei.ai](https://github.com/MaiweiAI) and [@UFund](https://github.com/UFund-Me/) by myself. A closed-loop online studying open-source repo is public at [<i><b>@computer-vision-in-action</b></i>](https://github.com/Charmve/computer-vision-in-action) <a href="https://charmve.github.io/computer-vision-in-action"><sup><i><b>Hot</b></i></sup></a>, and more interesting project can be found at [My GitHub repos](https://github.com/Charmve?tab=repositories).
-- 🌱 I’m currently working at Momenta.ai, an <b>autonomous driving</b> company. Before that, I was employed at Future Security Labs of Qihoo 360 as a Research SDE. My research interests lie at <b>Machine Learning</b> and <b>Computer Vision</b>. ([#2](https://github.com/Charmve/Charmve/issues/2))
-- 🤔 Only two things make me moved. 
-  1. To build a cross-platform [<i>VTuber</i>](https://github.com/DeepVTuber) in meta world, which called [未麻 MIMA](https://github.com/DeepVTuber/MIMA). 
-  2. <i>Bring Autonomous Driving into Real Life</i>. To solve the long tail problem and to optimize mass production performance is the goal.
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
-- 💬 Be free to ask me about anything [here](https://github.com/Charmve/Charmve/issues).
-
----
-</details>
-  
-  ✨ 作为团队主要负责人，率先基于英伟达Xavier、Orin芯片实现量产自动驾驶落地智己L7 [Momenta.2021]；率先推出基于地平线征程J5芯片的城市NOA量产解决方案 [轻舟智航.2022]
-
-
+## Hi, 👋  I'm <a href="https://charmve.github.io/" target="_blank">Zhewen He</a>
 <!--my introduction end -->
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/Charmve" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
+  <a href="https://github.com/openhe-hub" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=openhe-hub&title_color=333&text_color=777" alt="Openhe's Stats" >
   </a>
 </p>
-
-<!--  media account   
-<div align="center">
-  <a href="https://charmve.medium.com/" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219255827-67c1a27f-f8c5-46a9-811d-5e57448c61d1.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218347213-c080267f-cbb6-443e-8532-8e1ed9a58ea9.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://twitter.com/" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218346637-d30c8a0f-3eba-4699-8131-512fb06d46db.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://www.youtube.com/@Charmve" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/218346691-ceb2116a-465a-40af-8424-9f30d2348ca9.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://space.bilibili.com/62079686" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219026751-d7d14cce-a7c9-4e82-9942-8375fca65b99.png" width="3%" alt="" /></a>
-  <img src="https://user-images.githubusercontent.com/25839884/218346358-56cc8e2f-a2b8-487f-9088-32480cceabcf.png" width="3%" alt="" />
-  <a href="https://www.zhihu.com/people/MaiweiE-com" style="text-decoration:none;">
-    <img src="https://user-images.githubusercontent.com/25839884/219026120-ba71e48b-6e94-4bd4-b4e9-b7d175b5e362.png" width="3%" alt="" /></a>
-</div>
---->
 
 <p align="center">
   <a href= "https://imgconvert.csdnimg.cn/aHR0cHM6Ly9tbWJpei5xcGljLmNuL21tYml6X3BuZy9aTmRoV05pYjNJUkIzZk5ldWVGZEQ4YnZ4cXlzbXRtRktUTGdFSXZOMUdnTHhDNXV0Y1VBZVJ0T0lJa0hTZTVnVGowamVtZUVOQTJJMHhiU0xjQ3VrVVEvNjQw?x-oss-process=image/format,png" target="_blank" alt="WeChat" title="WeChat">
